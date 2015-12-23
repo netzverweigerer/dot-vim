@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/var/www/html/webcam'
+let g:netrw_dirhist_2='/vpn/vpn.blue'
+let g:netrw_dirhist_3='/vpn/vpn.blue/config'
+let g:netrw_dirhist_4='/etc/peervpn'
+let g:netrw_dirhist_5='/home/armin/.ncmpc'
+let g:netrw_dirhist_6='/home/armin/Bewerbung/Bsp-Latex'
+let g:netrw_dirhist_7='/usr/local/bin'
+let g:netrw_dirhist_8='/home/armin/blockout2-2.4+dfsg1/BlockOut'
+let g:netrw_dirhist_9='/usr/share/i3blocks'
